@@ -1,2 +1,3 @@
 Hello world!
-(https://calorizator.ru/sites/default/files/imagecache/product_512/product/cucumber-1.jpg)
+Sergey Romanov 
+[My repository](https://github.com/geniusatthemoment/I-am-barbie-girl-in-a-barbie-world)
